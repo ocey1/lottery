@@ -1,0 +1,56 @@
+﻿GFX  09:30:39.186 ====================================================================================================
+GFX  09:30:39.186 Heroes of the Storm (B69350)
+GFX  09:30:39.186 
+GFX  09:30:39.186 Executable                      D:\Game\Blizzard\Heroes of the Storm\Versions\Base69350\HeroesOfTheStorm_x64.exe
+GFX  09:30:39.186 <Parameters>                    -sso=1 -launch -uid heroes
+GFX  09:30:39.186 Parent Executable               \Device\HarddiskVolume2\Game\Blizzard\Heroes of the Storm\Support64\HeroesSwitcher_x64.exe
+GFX  09:30:39.186 Grandparent Executable          \Device\HarddiskVolume2\Game\Blizzard\Battle.net\Battle.net\Battle.net.exe
+GFX  09:30:39.186 LocalTime                       2018-10-22 09:30:39.186
+GFX  09:30:39.186 <ComputerUser>                  phamq_000
+GFX  09:30:39.186 <ComputerName>                  OCEY
+GFX  09:30:39.186 <Exe.Architecture>              x86_64
+GFX  09:30:39.186 <Version>                       2.39.0.69350
+GFX  09:30:39.186 <DataBuild>                     B69350
+GFX  09:30:39.186 <CodeBranch>                    branches/Heroes.39
+GFX  09:30:39.186 <CodeRevision>                  568610
+GFX  09:30:39.186 <Locale.Assets>                 enUS
+GFX  09:30:39.186 <Locale.Data>                   enUS
+GFX  09:30:39.186 <Locale.Install>                enUS
+GFX  09:30:39.186 <AccountCountry>                VNM
+GFX  09:30:39.186 <AgentVersion>                  2.15.3.6441
+GFX  09:30:39.186 TelemetrySessionId              FB037FFB-2221-4E3D-B8F0-B000E178E857
+GFX  09:30:39.186 ====================================================================================================
+GFX  09:30:39.184 DXGI: Available
+GFX  09:30:39.310 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  09:30:39.424 Adapter "NVIDIA GeForce 410M" Vendor 0x4318 Device 0x4318
+GFX  09:30:39.424 Adapter "Microsoft Basic Render Driver" Vendor 0x5140 Device 0x5140
+GFX  09:30:39.424 Skipped adapter "Microsoft Basic Render Driver" because no ouputs
+GFX  09:30:39.424 Attempting D3D11 device creation on "NVIDIA GeForce 410M"
+GFX  09:30:39.502 Device creation success.
+GFX  09:30:39.504 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  09:30:39.853 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  09:30:39.853 Initialized D3D11 GraphicsDevice: NVIDIA GeForce 410M (Driver Version: 0.37654.0.0, VRAM: 461MB, SVMEM: 2038MB).
+GFX  09:30:39.853 Setting up swap chain.
+GFX  09:30:39.879 Found matching display mode width: 1360 height: 768 RRN: 60098 RRD: 1000
+GFX  09:30:39.880 Resizing D3D11 swap chain (1360x768)
+GFX  09:30:39.911 Hardware Depth Sampling: Available
+GFX  09:30:40.313 Resource Cache Override Variable: 0MB
+GFX  09:30:40.313 Resource Cache: 1019MB Win64 (4077MB Physical, 3241MB Process Virtual)
+GFX  09:30:40.313 Resource Cache Sound:  101MB 
+GFX  09:30:40.313 Resource Cache Common: 450MB 
+GFX  09:30:40.313 Resource Cache Texture Max: 813MB 
+GFX  09:30:48.039 PerfNotifiers initialized
+GFX  09:30:48.516 Setting up swap chain.
+GFX  09:30:48.521 Found matching display mode width: 1360 height: 768 RRN: 60098 RRD: 1000
+GFX  09:30:48.523 Resizing D3D11 swap chain (1360x768)
+GFX  09:30:48.553 Resource Cache Texture: 450MB 
+GFX  09:30:48.553 Resource Cache Texture Used: 0MB 
+GFX  09:31:03.192 Focus Event. Changing to fullscreen.
+GFX  09:36:10.727 Focus Event. Changing to windowed.
+GFX  09:36:25.329 Focus Event. Changing to fullscreen.
+GFX  09:36:25.831 Focus Event. Changing to windowed.
+GFX  09:36:28.335 Focus Event. Changing to fullscreen.
+GFX  09:58:25.438 Focus Event. Changing to windowed.
+GFX  09:58:40.115 Focus Event. Changing to fullscreen.
+GFX  10:11:47.884 Focus Event. Changing to windowed.
+GFX  10:12:34.718 Focus Event. Changing to fullscreen.

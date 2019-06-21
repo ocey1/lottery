@@ -1,0 +1,64 @@
+﻿GFX  16:01:25.341 ====================================================================================================
+GFX  16:01:25.341 Heroes of the Storm (B68778)
+GFX  16:01:25.341 
+GFX  16:01:25.341 Executable                      D:\Game\Blizzard\Heroes of the Storm\Versions\Base68778\HeroesOfTheStorm_x64.exe
+GFX  16:01:25.341 <Parameters>                    -sso=1 -launch -uid heroes
+GFX  16:01:25.341 Parent Executable               \Device\HarddiskVolume2\Game\Blizzard\Heroes of the Storm\Support64\HeroesSwitcher_x64.exe
+GFX  16:01:25.341 Grandparent Executable          \Device\HarddiskVolume2\Game\Blizzard\Battle.net\Battle.net\Battle.net.exe
+GFX  16:01:25.341 LocalTime                       2018-09-29 16:01:25.341
+GFX  16:01:25.341 <ComputerUser>                  phamq_000
+GFX  16:01:25.341 <ComputerName>                  OCEY
+GFX  16:01:25.341 <Exe.Architecture>              x86_64
+GFX  16:01:25.341 <Version>                       2.38.1.68778
+GFX  16:01:25.341 <DataBuild>                     B68778
+GFX  16:01:25.341 <CodeBranch>                    branches/Heroes.38
+GFX  16:01:25.341 <CodeRevision>                  565848
+GFX  16:01:25.341 <Locale.Assets>                 enUS
+GFX  16:01:25.341 <Locale.Data>                   enUS
+GFX  16:01:25.341 <Locale.Install>                enUS
+GFX  16:01:25.341 <AccountCountry>                VNM
+GFX  16:01:25.341 <AgentVersion>                  2.15.2.6383
+GFX  16:01:25.341 TelemetrySessionId              573CCDF3-4C49-4080-B8F0-B000E178E857
+GFX  16:01:25.341 ====================================================================================================
+GFX  16:01:25.340 DXGI: Available
+GFX  16:01:25.345 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  16:01:25.450 Adapter "NVIDIA GeForce 410M" Vendor 0x4318 Device 0x4318
+GFX  16:01:25.451 Adapter "Microsoft Basic Render Driver" Vendor 0x5140 Device 0x5140
+GFX  16:01:25.451 Skipped adapter "Microsoft Basic Render Driver" because no ouputs
+GFX  16:01:25.451 Attempting D3D11 device creation on "NVIDIA GeForce 410M"
+GFX  16:01:25.507 Device creation success.
+GFX  16:01:25.508 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  16:01:25.599 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  16:01:25.599 Initialized D3D11 GraphicsDevice: NVIDIA GeForce 410M (Driver Version: 0.37654.0.0, VRAM: 461MB, SVMEM: 2038MB).
+GFX  16:01:25.599 Setting up swap chain.
+GFX  16:01:25.601 Found matching display mode width: 1360 height: 768 RRN: 60098 RRD: 1000
+GFX  16:01:25.603 Resizing D3D11 swap chain (1360x768)
+GFX  16:01:25.605 Hardware Depth Sampling: Available
+GFX  16:01:25.664 Resource Cache Override Variable: 0MB
+GFX  16:01:25.664 Resource Cache: 1019MB Win64 (4077MB Physical, 3488MB Process Virtual)
+GFX  16:01:25.664 Resource Cache Sound:  101MB 
+GFX  16:01:25.664 Resource Cache Common: 450MB 
+GFX  16:01:25.664 Resource Cache Texture Max: 813MB 
+GFX  16:01:34.116 PerfNotifiers initialized
+GFX  16:01:34.280 Setting up swap chain.
+GFX  16:01:34.284 Found matching display mode width: 1360 height: 768 RRN: 60098 RRD: 1000
+GFX  16:01:34.285 Resizing D3D11 swap chain (1360x768)
+GFX  16:01:34.306 Resource Cache Texture: 450MB 
+GFX  16:01:34.306 Resource Cache Texture Used: 0MB 
+GFX  16:02:27.353 Focus Event. Changing to fullscreen.
+GFX  16:02:48.305 Focus Event. Changing to windowed.
+GFX  16:03:00.373 Focus Event. Changing to fullscreen.
+GFX  16:03:03.602 Focus Event. Changing to windowed.
+GFX  16:04:05.688 Focus Event. Changing to fullscreen.
+GFX  16:04:13.486 Focus Event. Changing to fullscreen.
+GFX  16:07:10.269 Focus Event. Changing to windowed.
+GFX  16:07:21.303 Focus Event. Changing to fullscreen.
+GFX  16:07:23.573 Focus Event. Changing to windowed.
+GFX  16:08:08.551 Focus Event. Changing to fullscreen.
+GFX  16:08:16.088 Focus Event. Changing to windowed.
+GFX  16:08:25.253 Focus Event. Changing to fullscreen.
+GFX  16:22:16.789 Focus Event. Changing to windowed.
+GFX  16:22:28.287 Focus Event. Changing to fullscreen.
+GFX  16:22:33.026 Focus Event. Changing to windowed.
+GFX  16:23:16.736 Focus Event. Changing to fullscreen.
+GFX  16:23:24.301 Focus Event. Changing to fullscreen.

@@ -1,0 +1,18 @@
+﻿NGDP Patch Fail: 1E5B70A52D7C3D8F7E5BEF1EDB127B93 "error accessing key"
+
+NGDP Patch Fail: 0AB59F3491A07CE99204F4091DEC9937 "error accessing key"
+
+NGDP Patch Fail: C75659CBF312EC31B459D02B14697AFA "error accessing key"
+
+NGDP Patch Fail: AF4529EABAD7E4AB6F6FF4B786792C47 "error accessing key"
+
+NGDP Patch Fail: 3EB558844C9B21A09BD4DD137A51BF9A "error accessing key"
+
+NGDP Patch Fail: 4A60B2EBF27CEB9A7C07FC5FEE8CEC8E "error accessing key"
+
+NGDP Patch Fail: E38FDBB93770D332695C01257B3171D9 "error accessing key"
+
+NGDP Patch Fail: 4EEC30F89B6E21F1474535C35835FE74 "error accessing key"
+
+NGDP Patch Fail: 70B32D0A88CA8FCC273C5C8036B0B6AE "error accessing key"
+

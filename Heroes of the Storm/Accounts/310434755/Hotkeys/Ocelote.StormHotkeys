@@ -1,0 +1,14 @@
+[Settings]
+Grid=1
+GlobalQuickCastMode=OnUp
+
+[Hotkeys]
+
+[Commands]
+
+[QuickCastModes]
+
+[Modifiers]
+QueueCommand=Shift
+Announce=Alt
+
